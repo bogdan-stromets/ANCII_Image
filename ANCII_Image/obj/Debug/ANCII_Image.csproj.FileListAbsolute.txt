@@ -1,0 +1,8 @@
+G:\Study\ANCII_Image\ANCII_Image\ANCII_Image\bin\Debug\ANCII_Image.exe.config
+G:\Study\ANCII_Image\ANCII_Image\ANCII_Image\bin\Debug\ANCII_Image.exe
+G:\Study\ANCII_Image\ANCII_Image\ANCII_Image\bin\Debug\ANCII_Image.pdb
+G:\Study\ANCII_Image\ANCII_Image\ANCII_Image\obj\Debug\ANCII_Image.csproj.AssemblyReference.cache
+G:\Study\ANCII_Image\ANCII_Image\ANCII_Image\obj\Debug\ANCII_Image.csproj.SuggestedBindingRedirects.cache
+G:\Study\ANCII_Image\ANCII_Image\ANCII_Image\obj\Debug\ANCII_Image.csproj.CoreCompileInputs.cache
+G:\Study\ANCII_Image\ANCII_Image\ANCII_Image\obj\Debug\ANCII_Image.exe
+G:\Study\ANCII_Image\ANCII_Image\ANCII_Image\obj\Debug\ANCII_Image.pdb
